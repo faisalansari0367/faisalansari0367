@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @faisalansari0367
+- 👋 Hi, I’m FAISAL
 - 👀 I’m interested in flutter 
 - 🌱 I’m currently working on a project which is a file manager on flutter.
 - 💞️ I’m looking to collaborate on some interesting projects
