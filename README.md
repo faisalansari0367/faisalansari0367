@@ -5,13 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faisalansari0367" alt="faisalansari0367" /></a> </p>
 
-- 🔭 I’m currently working on **BIOPLUS**
-
-- 🌱 I’m currently learning **React, NextJs**
 
 - 👯 I’m looking to collaborate on **some interesting projects**
-
-- 🤝 I’m looking for help with **background services in flutter**
 
 - 💬 Ask me about **Flutter**
 
