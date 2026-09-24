@@ -8,6 +8,6 @@ I'm a senior frontend engineer in Bengaluru, India.
 - ☕ Latest: an [AI that cut my AC energy use by 22%](https://medium.com/@faisalansari0367/how-i-built-an-ai-that-helped-reduce-my-ac-energy-consumption-ab0f3cd21c26)
 - 💬 Ask me about Flutter, React, Next.js, or TypeScript
 - 📫 Reach me at faisalansari0367@gmail.com
-- ⚡ Fun fact: my portfolio's dependency graph is tuned so builds run **30% faster** (18 → 12.6 min)
+  
 
 Check out my [portfolio](https://faisal-portfolio-five-woad.vercel.app) 🚀
